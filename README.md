@@ -11,22 +11,19 @@ This is a repository for *A Multimodal Framework for Automated Teaching Quality 
 
 
 ## Audio examples
-1
-<body>
-    <audio src="file/DEMO_0_33333.wav" controls=""></audio>
-</body>
-2
 
-<embad src="" type="file/DEMO_0_33333.wav">
+| Audio clip    | Score  | Download link|
+|  ----  | ----  | ----  |
+| 1  | 3,3,3,3,3 |[here](file/DEMO_0_33333.wav)|
 
-3
-<audio id="audio1" src="file/DEMO_0_33333.wav"  preload>
-    </audio>    
-4
-<audio id="audio" controls="" preload="none">
-      <source id="mp3" src="file/DEMO_0_33333.wav">
-</audio>
-    
+
+
+1. An audio clip example labeled '3,3,3,3,3' can be downloaded [here](file/DEMO_0_33333.wav)
+1. An audio clip example labeled '3,3,3,3,3' can be downloaded [here](file/DEMO_0_33333.wav)
+1. An audio clip example labeled '3,3,3,3,3' can be downloaded [here](file/DEMO_0_33333.wav)
+1. An audio clip example labeled '3,3,3,3,3' can be downloaded [here](file/DEMO_0_33333.wav)
+
+
     
     
 ## Codes
