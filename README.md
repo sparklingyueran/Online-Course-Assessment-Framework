@@ -10,7 +10,9 @@ This is a repository for *A Multimodal Framework for Automated Teaching Quality 
 
 ## Audio examples
 
-
+<body>
+    <audio src="file/DEMO_0_33333.wav" controls=""></audio>
+</body>
 
 ## Codes
 Will be published soon.
