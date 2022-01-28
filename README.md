@@ -22,6 +22,10 @@ This is a repository for *A Multimodal Framework for Automated Teaching Quality 
 3
 <audio id="audio1" src="file/DEMO_0_33333.wav"  preload>
     </audio>    
+4
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="file/DEMO_0_33333.wav">
+</audio>
     
     
     
