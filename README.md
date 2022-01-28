@@ -6,7 +6,7 @@ This is a repository for *A Multimodal Framework for Automated Teaching Quality 
 
 * A screenshot of video.
 
-<image>[file/screen.png]
+<image>[file/screen.png]</image>
 
 ## Audio examples
 
