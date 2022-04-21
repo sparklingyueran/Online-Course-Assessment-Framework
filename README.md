@@ -18,7 +18,6 @@ This is a repository for *A Multimodal Framework for Automated Teaching Quality 
 | 2 | 2,2,3,3,3 |[here](file/DEMO_1_22333.wav)|
 | 3 | 2,2,3,3,3 |[here](file/DEMO_2_22333.wav)|
 | 4 | 1,2,1,2,3 |[here](file/DEMO_3_12123.wav)|
-| 5 | 2,0,2,2,3 |[here](file/DEMO_4_20223.wav)|
 
 
 
