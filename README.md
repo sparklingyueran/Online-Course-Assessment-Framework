@@ -11,13 +11,14 @@ This is a repository for *A Multimodal Framework for Automated Teaching Quality 
 
 
 ## Audio examples
+We just present small parts of audio documents here, because we cannot include students' name in demo audios.
 
 | Audio clip    | Score  | Download link|
 |  ----  | ----  | ----  |
-| 1 | 3,3,3,3,3 |[here](file/DEMO_0_33333.wav)|
-| 2 | 2,2,3,3,3 |[here](file/DEMO_1_22333.wav)|
-| 3 | 2,2,3,3,3 |[here](file/DEMO_2_22333.wav)|
-| 4 | 1,2,1,2,3 |[here](file/DEMO_3_12123.wav)|
+| 1 | 6, 7, 7, 6, 8 |[here](file/DEMO_LY_7b_SP.wav)|
+| 2 | 6, 4, 6, 7, 8 |[here](file/DEMO_Y_11_RT.wav)|
+| 3 | 7, 8, 7, 7, 8 |[here](file/DEMO_W_3_HI.wav)|
+| 4 | 8, 6, 7, 8, 8 |[here](file/DEMO_G_4_RL.wav)|
 
 
 
