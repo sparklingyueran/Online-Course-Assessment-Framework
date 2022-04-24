@@ -10,7 +10,15 @@ This is a repository for *A Multimodal Framework for Automated Teaching Quality 
 ![screen](file/screen.png)
 
 
-## Audio examples
+## Dataset
+* 338 video clips from 63 lectures.
+* 10 different teachers.
+* Each lecrue: 5-10 adult students.
+* Clip length: 5-30 minutes.
+* NOT open access.
+* Rating: 0-10 scale.
+
+### Audio examples
 We just present small parts of audio documents here, because we cannot include students' name in demo audios.
 
 | Audio clip    | Score  | Download link|
