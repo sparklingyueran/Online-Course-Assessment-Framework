@@ -33,6 +33,11 @@ We just present small parts of audio documents here, because we cannot include s
     
     
 ## Codes
-Will be published soon.
+### Step 1 Preparation
 
+### Step 2 Mid-level feature extraction
+
+### Step 3 High-level feature extraction
+
+### Step 4 Score prediction
 
