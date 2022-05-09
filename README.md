@@ -11,6 +11,7 @@ This is a repository for *A Multimodal Framework for Automated Teaching Quality 
 
 
 ## Dataset
+#### Description
 * 338 video clips from 63 lectures.
 * 10 different teachers.
 * Each lecrue: 5-10 adult students.
@@ -18,7 +19,7 @@ This is a repository for *A Multimodal Framework for Automated Teaching Quality 
 * NOT open access.
 * Rating: 0-10 scale.
 
-### Audio examples
+#### Audio examples
 We just present small parts of audio documents here, because we cannot include students' name in demo audios.
 
 | Audio clip    | Score  | Download link|
@@ -33,11 +34,11 @@ We just present small parts of audio documents here, because we cannot include s
     
     
 ## Codes
-### Step 1 Preparation
+#### Step 1 : Preparation
 
-### Step 2 Mid-level feature extraction
+#### Step 2 : Mid-level feature extraction
 
-### Step 3 High-level feature extraction
+#### Step 3 : High-level feature extraction
 
-### Step 4 Score prediction
+#### Step 4 : Score prediction
 
